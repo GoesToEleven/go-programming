@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/GoesToEleven/SummerBootCamp/05_golang/02/01/13_01_testing/example"
+	"github.com/GoesToEleven/go-programming/40_testing/01/example"
 )
 
 func main() {

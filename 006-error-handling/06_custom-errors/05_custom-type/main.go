@@ -26,7 +26,6 @@ func Sqrt(f float64) (float64, error) {
 		nme := fmt.Errorf("norgate math redux: square root of negative number: %v", f)
 		return 0, &NorgateMathError{"50.2289 N", "99.4656 W", nme}
 	}
-	// implementation
 	return 42, nil
 }
 

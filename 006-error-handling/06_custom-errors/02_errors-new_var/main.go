@@ -20,7 +20,6 @@ func Sqrt(f float64) (float64, error) {
 	if f < 0 {
 		return 0, ErrNorgateMath
 	}
-	// implementation
 	return 42, nil
 }
 
