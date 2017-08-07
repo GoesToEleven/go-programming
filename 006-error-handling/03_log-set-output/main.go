@@ -7,21 +7,24 @@ import (
 )
 
 func init() {
-	nf, err := os.Create("log.txt")
+	f, err := os.Create("log.txt")
 	if err != nil {
 		fmt.Println(err)
 	}
-	log.SetOutput(nf)
+	defer f.Close()
+	log.SetOutput(f)
 }
 
 func main() {
-	_, err := os.Open("no-file.txt")
+	f, err := os.Open("no-file.txt")
 	if err != nil {
 		//		fmt.Println("err happened", err)
 		log.Println("err happened", err)
 		//		log.Fatalln(err)
 		//		panic(err)
 	}
+	defer f.Close()
+	fmt.Println("about to exit")
 }
 
 /*
