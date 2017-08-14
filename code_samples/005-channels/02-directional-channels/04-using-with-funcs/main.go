@@ -15,11 +15,11 @@ func main() {
 }
 
 // send
-func foo(c chan<- int){
+func foo(c chan<- int) {
 	c <- 42
 }
 
 // receive
-func bar(c <-chan int){
+func bar(c <-chan int) {
 	fmt.Println(<-c)
 }

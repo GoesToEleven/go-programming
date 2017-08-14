@@ -6,8 +6,9 @@ import (
 )
 
 type norgateMathError struct {
-	lat, long string
-	err       error
+	lat  string
+	long string
+	err  error
 }
 
 func (n norgateMathError) Error() string {

@@ -19,11 +19,11 @@ func main() {
 func receive(e, o, q <-chan int) {
 	for {
 		select {
-		case v := <- e:
+		case v := <-e:
 			fmt.Println("from the eve channel:", v)
-		case v := <- o:
+		case v := <-o:
 			fmt.Println("from the odd channel:", v)
-		case v := <- q:
+		case v := <-q:
 			fmt.Println("from the quit channel:", v)
 			return
 		}
@@ -31,8 +31,8 @@ func receive(e, o, q <-chan int) {
 }
 
 func send(e, o, q chan<- int) {
-	for i := 0; i < 100; i++{
-		if i % 2 == 0 {
+	for i := 0; i < 100; i++ {
+		if i%2 == 0 {
 			e <- i
 		} else {
 			o <- i

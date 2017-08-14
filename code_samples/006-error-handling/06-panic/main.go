@@ -15,5 +15,4 @@ func main() {
 	}
 }
 
-
 // http://godoc.org/builtin#panic

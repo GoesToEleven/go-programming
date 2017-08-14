@@ -14,7 +14,6 @@ func main() {
 	defer f.Close()
 	log.SetOutput(f)
 
-
 	f2, err := os.Open("no-file.txt")
 	if err != nil {
 		//		fmt.Println("err happened", err)
