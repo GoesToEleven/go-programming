@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	c := make(chan <- int, 2)
+	c := make(chan<- int, 2)
 
 	c <- 42
 	c <- 43

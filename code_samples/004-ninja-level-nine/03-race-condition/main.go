@@ -1,9 +1,9 @@
 package main
 
 import (
-	"sync"
-	"runtime"
 	"fmt"
+	"runtime"
+	"sync"
 )
 
 func main() {
@@ -14,7 +14,7 @@ func main() {
 	wg.Add(gs)
 
 	for i := 0; i < gs; i++ {
-		go func(){
+		go func() {
 			v := incrementer
 			runtime.Gosched()
 			v++

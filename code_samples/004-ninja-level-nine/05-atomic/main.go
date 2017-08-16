@@ -1,8 +1,8 @@
 package main
 
 import (
-	"sync"
 	"fmt"
+	"sync"
 	"sync/atomic"
 )
 
@@ -14,7 +14,7 @@ func main() {
 	wg.Add(gs)
 
 	for i := 0; i < gs; i++ {
-		go func(){
+		go func() {
 			atomic.AddInt64(&incrementer, 1)
 			fmt.Println(atomic.LoadInt64(&incrementer))
 			wg.Done()

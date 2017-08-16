@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"sync"
 	"runtime"
+	"sync"
 )
 
 func main() {
@@ -26,7 +26,6 @@ func main() {
 
 	fmt.Println("mid cpu", runtime.NumCPU())
 	fmt.Println("mid gs", runtime.NumGoroutine())
-
 
 	wg.Wait()
 

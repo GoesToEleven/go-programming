@@ -1,8 +1,8 @@
 package main
 
 import (
-	"sync"
 	"fmt"
+	"sync"
 )
 
 func main() {
@@ -14,7 +14,7 @@ func main() {
 	var m sync.Mutex
 
 	for i := 0; i < gs; i++ {
-		go func(){
+		go func() {
 			m.Lock()
 			v := incrementer
 			v++
