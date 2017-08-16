@@ -1,0 +1,1 @@
+we are demonstrating how to work with git
