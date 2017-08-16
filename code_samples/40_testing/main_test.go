@@ -1,4 +1,4 @@
-package math
+package main
 
 import (
 	"fmt"
@@ -22,7 +22,7 @@ func BenchmarkAdder(b *testing.B) {
 func ExampleAdder() {
 	fmt.Println(Adder(4, 7))
 	// Output:
-	// 11
+	// 12
 }
 
 func ExampleAdder_multiple() {
