@@ -1,5 +1,5 @@
-// Package mymath provides ACME inc math solutions.
-package mymath
+// Package mymathtwo provides ACME inc math solutions.
+package mymathtwo
 
 // Sum adds an unlimited number of values of type int.
 func Sum(xi ...int) int {
