@@ -2,7 +2,7 @@ package mymath
 
 import (
 	"testing"
-	"github.com/GoesToEleven/go-programming/code_samples/008-documentation/01/mymath"
+	"github.com/GoesToEleven/go-programming/code_samples/007-documentation/01/mymath"
 	"fmt"
 )
 
