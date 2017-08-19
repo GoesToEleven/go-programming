@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/GoesToEleven/go-programming/code_samples/008-ninja-level-twelve/01/dog"
+	"github.com/GoesToEleven/go-programming/code_samples/008-ninja-level-twelve/01x/dog"
 	"fmt"
 )
 
