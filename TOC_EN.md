@@ -20,3 +20,12 @@
   * [3.4 Hands-on Exercise #4](section_3/3.4.md)
   * [3.5 Hands-on Exercise #5](section_3/3.5.md)
   * [3.6 Hands-on Exercise #6](section_3/3.6.md)
+
+## Section 4
+
+  * [4.1 Bool Type](section_4/4.1.md)
+  * [4.2 How Computers Work](section_4/4.2.md)
+  * [4.3 Numberic Types](section_4/4.3.md)
+  * [4.4 String Type](section_4/4.4.md)
+
+
