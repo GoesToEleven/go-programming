@@ -11,3 +11,12 @@
   * [2.7 The fmt Package](section_2/2.7.md)
   * [2.8 Creating Your Own Type](section_2/2.8.md)
   * [2.9 Conversion, Not Casting](section_2/2.9.md)
+
+## Section 3
+
+  * [3.1 Hands-on Exercise #1](section_3/3.1.md)
+  * [3.2 Hands-on Exercise #2](section_3/3.2.md)
+  * [3.3 Hands-on Exercise #3](section_3/3.3.md)
+  * [3.4 Hands-on Exercise #4](section_3/3.4.md)
+  * [3.5 Hands-on Exercise #5](section_3/3.5.md)
+  * [3.6 Hands-on Exercise #6](section_3/3.6.md)
