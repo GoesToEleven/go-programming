@@ -25,7 +25,7 @@
 
   * [4.1 Bool Type](section_4/4.1.md)
   * [4.2 How Computers Work](section_4/4.2.md)
-  * [4.3 Numberic Types](section_4/4.3.md)
+  * [4.3 Numeric Types](section_4/4.3.md)
   * [4.4 String Type](section_4/4.4.md)
-
+  * [4.5 Numeral Systems](section_4/4.5.md)
 
