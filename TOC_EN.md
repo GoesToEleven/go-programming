@@ -29,5 +29,5 @@
   * [4.4 String Type](section_4/4.4.md)
   * [4.5 Numeral Systems](section_4/4.5.md)
   * [4.6 Constants](section_4/4.6.md)  
-  * [4.6 Iota](section_4/4.7.md)  
-
+  * [4.7 Iota](section_4/4.7.md)  
+  * [4.8 Bit Shifting](section_4/4.8.md)
