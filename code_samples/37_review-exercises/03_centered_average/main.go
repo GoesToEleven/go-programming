@@ -37,8 +37,7 @@ func main() {
 
 /*
 Implement a centeredAverage function
-that computes the average of a list of numbers,
-but removes the largest and smallest values.
+that
 
 centeredAverage([]float64{1, 2, 3, 4, 100}) → 3
 */
