@@ -45,7 +45,7 @@ func ExampleUseCount() {
 	s := "stirred Shaken not stirred"
 	m := UseCount(s)
 	for k, v := range m {
-		fmt.Println(v, k)
+		fmt.Println(k, v)
 	}
 	fmt.Println(UseCount(s))
 	// Output:

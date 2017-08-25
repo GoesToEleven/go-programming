@@ -9,6 +9,8 @@ import (
 func main() {
 	fmt.Println(word.Count(word.Q))
 
+	fmt.Println(word.UseCount(word.Q))
+
 	for k, v := range word.UseCount(word.Q) {
 		fmt.Println(v, k)
 	}
