@@ -1,9 +1,9 @@
 package mymathtwo
 
 import (
-	"testing"
-	"github.com/GoesToEleven/go-programming/code_samples/007-documentation/01/mymath"
 	"fmt"
+	"github.com/GoesToEleven/go-programming/code_samples/007-documentation/01/mymath"
+	"testing"
 )
 
 func TestSum(t *testing.T) {
