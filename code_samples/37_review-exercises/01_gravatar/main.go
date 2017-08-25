@@ -20,7 +20,7 @@ func getGravatarHash(email string) string {
 }
 
 func main() {
-	var email string = os.Args[1]
+	var email = os.Args[1]
 	var gravatarHash = getGravatarHash(email)
 	fmt.Println(`<!DOCTYPE html>
 <html lang="en">
