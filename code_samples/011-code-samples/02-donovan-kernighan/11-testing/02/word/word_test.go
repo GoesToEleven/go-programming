@@ -5,7 +5,7 @@ import "testing"
 func TestIsPalindrome(t *testing.T) {
 	tests := []struct {
 		input string
-		want bool
+		want  bool
 	}{
 		{"", true},
 		{"a", true},

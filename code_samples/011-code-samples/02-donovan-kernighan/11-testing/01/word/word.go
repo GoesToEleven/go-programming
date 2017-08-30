@@ -10,6 +10,3 @@ func IsPalindrome(s string) bool {
 	}
 	return true
 }
-
-
-

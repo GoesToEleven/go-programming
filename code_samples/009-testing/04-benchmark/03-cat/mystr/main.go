@@ -14,4 +14,3 @@ func Cat(xs []string) string {
 func Join(xs []string) string {
 	return strings.Join(xs, " ")
 }
-

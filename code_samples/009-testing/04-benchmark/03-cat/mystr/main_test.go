@@ -1,9 +1,9 @@
 package mystr
 
 import (
-	"testing"
-	"strings"
 	"fmt"
+	"strings"
+	"testing"
 )
 
 func TestCat(t *testing.T) {
