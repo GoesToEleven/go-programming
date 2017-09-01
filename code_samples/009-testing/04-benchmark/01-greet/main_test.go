@@ -2,7 +2,6 @@ package main
 
 import (
 	"testing"
-	"fmt"
 )
 
 func TestGreet(t *testing.T) {
@@ -10,12 +9,6 @@ func TestGreet(t *testing.T) {
 	if s != "Hello my dear, James" {
 		t.Error("got", s, "want", "Hello my dear, James")
 	}
-}
-
-func ExampleGreet() {
-	fmt.Println(Greet("James"))
-	// Output:
-	// Hello my dear, James
 }
 
 func BenchmarkGreet(b *testing.B) {
