@@ -43,3 +43,13 @@
   * [5.7 Hands-on Exercise #7](section_5/5.7.md)
   * [5.7a Hands-on Exercise #7 Answers](section_5/5.7a.md)
 
+## Section 6: Control Flow
+
+  * [6.1 Understanding Control Flow](section_6/6.1.md)
+  * [6.2 Loop - Init, Condition, Post](section_6/6.2.md)
+  * [6.3 Loop - Nested Loops](section_6/6.3.md)
+  * [6.4 Loop - For Statement](section_6/6.4.md)
+  * [6.5 Loop - Break & Continue](section_6/6.5.md)
+  * [6.6 Loop - Printing ASCII](section_6/6.6.md)
+  * [6.7 Conditional - If Statement](section_6/6.7.md)
+
