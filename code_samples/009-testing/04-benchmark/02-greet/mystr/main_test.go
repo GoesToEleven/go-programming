@@ -1,8 +1,8 @@
 package mystr
 
 import (
-	"testing"
 	"fmt"
+	"testing"
 )
 
 func TestGreet(t *testing.T) {

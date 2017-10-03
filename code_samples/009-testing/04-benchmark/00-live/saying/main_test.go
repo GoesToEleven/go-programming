@@ -1,8 +1,8 @@
 package saying
 
 import (
-	"testing"
 	"fmt"
+	"testing"
 )
 
 func TestGreet(t *testing.T) {

@@ -1,8 +1,8 @@
 package dog
 
 import (
-	"testing"
 	"fmt"
+	"testing"
 )
 
 func TestYears(t *testing.T) {

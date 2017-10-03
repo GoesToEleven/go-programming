@@ -1,9 +1,9 @@
 package word
 
 import (
-	"testing"
-	"github.com/GoesToEleven/go-programming/code_samples/010-ninja-level-thirteen/02/02-code-finished/quote"
 	"fmt"
+	"github.com/GoesToEleven/go-programming/code_samples/010-ninja-level-thirteen/02/02-code-finished/quote"
+	"testing"
 )
 
 func TestUseCount(t *testing.T) {
