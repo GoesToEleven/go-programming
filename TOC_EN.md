@@ -60,16 +60,14 @@
 
 ## Section 7: Exercises - Level 3
 
-  * [7.01 Understanding Control Flow](section_06/6.01.md)
-  * [7.02 Loop - Init, Condition, Post](section_06/6.02.md)
-  * [7.03 Loop - Nested Loops](section_06/6.03.md)
-  * [7.04 Loop - For Statement](section_06/6.04.md)
-  * [7.05 Loop - Break & Continue](section_06/6.05.md)
-  * [7.06 Loop - Printing ASCII](section_06/6.06.md)
-  * [7.07 Conditional - If Statement](section_06/6.07.md)
-  * [7.08 Conditional - If, Else if, Else](section_06/6.08.md)
-  * [7.09 Loop, Conditional, Modulus](section_06/6.09.md)
-  * [7.10 Conditional - Switch Statement](section_06/6.10.md)
-  * [7.11 Conditional - Switch Statement Documentation](section_6/6.11.md)
-  * [7.12 Conditional Logic Operators ](section_06/6.12.md)
+  * [7.01 Hands-on Exercise #1](section_07/7.01.md)
+  * [7.02 Hands-on Exercise #2](section_07/7.02.md)
+  * [7.03 Hands-on Exercise #3](section_07/7.03.md)
+  * [7.04 Hands-on Exercise #4](section_07/7.04.md)
+  * [7.05 Hands-on Exercise #5](section_07/7.05.md)
+  * [7.06 Hands-on Exercise #6](section_07/7.06.md)
+  * [7.07 Hands-on Exercise #7](section_07/7.07.md)
+  * [7.08 Hands-on Exercise #8](section_07/7.08.md)
+  * [7.09 Hands-on Exercise #9](section_07/7.09.md)
+  * [7.10 Hands-on Exercise #10](section_07/7.10.md)
 
