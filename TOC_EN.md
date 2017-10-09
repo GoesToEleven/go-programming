@@ -43,3 +43,19 @@
   * [5.7 Hands-on Exercise #7](section_5/5.7.md)
   * [5.7a Hands-on Exercise #7 Answers](section_5/5.7a.md)
 
+## Section 6: Control Flow
+
+  * [6.1 Understanding Control Flow](section_6/6.1.md)
+  * [6.2 Loop - Init, Condition, Post](section_6/6.2.md)
+  * [6.3 Loop - Nested Loops](section_6/6.3.md)
+  * [6.4 Loop - For Statement](section_6/6.4.md)
+  * [6.5 Loop - Break & Continue](section_6/6.5.md)
+  * [6.6 Loop - Printing ASCII](section_6/6.6.md)
+  * [6.7 Conditional - If Statement](section_6/6.7.md)
+  * [6.8 Conditional - If, Else if, Else](section_6/6.8.md)
+  * [6.9 Loop, Conditional, Modulus](section_6/6.9.md)
+  * [6.10 Conditional - Switch Statement](section_6/6.10.md)
+  * [6.11 Conditional - Switch Statement Documentation](section_6/6.11.md)
+  * [6.12 Conditional Logic Operators ](section_6/6.12.md)
+
+
