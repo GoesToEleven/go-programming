@@ -52,4 +52,10 @@
   * [6.5 Loop - Break & Continue](section_6/6.5.md)
   * [6.6 Loop - Printing ASCII](section_6/6.6.md)
   * [6.7 Conditional - If Statement](section_6/6.7.md)
+  * [6.8 Conditional - If, Else if, Else](section_6/6.8.md)
+  * [6.9 Loop, Conditional, Modulus](section_6/6.9.md)
+  * [6.10 Conditional - Switch Statement](section_6/6.10.md)
+  * [6.11 Conditional - Switch Statement Documentation](section_6/6.11.md)
+  * [6.12 Conditional Logic Operators ](section_6/6.12.md)
+
 
