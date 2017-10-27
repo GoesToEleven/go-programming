@@ -1,0 +1,1 @@
+All of the code in this folder comes from Donovan & Kernighan's book on Go, or is inpsired by their book.
