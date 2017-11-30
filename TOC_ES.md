@@ -21,7 +21,7 @@
   * [3.05 Ejercicio Práctico #5](section_03_es/3.05.md)
   * [3.06 Ejercicio Práctico #6](section_03_es/3.06.md)
 
-## Sección 4: Fundametos de Programación
+## Sección 4: Fundamentos de Programación
 
   * [4.01 Tipo Booleano](section_04_es/4.01.md)
   * [4.02 Cómo Funciona La Computadora](section_04_es/4.02.md)
