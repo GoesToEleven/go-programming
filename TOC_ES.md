@@ -5,7 +5,7 @@
   * [2.01 Playground](section_02_es/2.01.md)
   * [2.02 Hola Mundo](section_02_es/2.02.md)
   * [2.03 Operador de declaración Corta](section_02_es/2.03.md)
-  * [2.04 La palabra clave Var](section_02_es/2.04.md)
+  * [2.04 La Palabra Clave Var](section_02_es/2.04.md)
   * [2.05 Explorando Type](section_02_es/2.05.md)
   * [2.06 El Valor Cero](section_02_es/2.06.md)
   * [2.07 El Paquete fmt](section_02_es/2.07.md)
