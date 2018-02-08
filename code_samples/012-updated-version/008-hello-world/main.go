@@ -10,7 +10,7 @@ func main() {
 	fmt.Println("something more")
 
 	for i := 0; i < 100; i++ {
-		if i % 2 == 0 {
+		if i%2 == 0 {
 			fmt.Println(i)
 		}
 	}
@@ -30,4 +30,3 @@ func bar() {
 // (1) sequence
 // (2) loop; iterative
 // (3) conditional
-
