@@ -20,7 +20,7 @@ func TestUseCount(t *testing.T) {
 			}
 		case "three":
 			if v != 3 {
-				t.Error("got", v, "want", 1)
+				t.Error("got", v, "want", 3)
 			}
 		}
 	}
