@@ -16,7 +16,8 @@ func main() {
 	for i := 0; i < gs; i++ {
 		go func() {
 			atomic.AddInt64(&incrementer, 1)
-			fmt.Println(atomic.LoadInt64(&incrementer))
+			r := atomic.LoadInt64(&incrementer)
+			fmt.Println(r)
 			wg.Done()
 		}()
 	}
