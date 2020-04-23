@@ -22,4 +22,3 @@ func main() {
 	fmt.Println(z)
 	fmt.Printf("%T", z)
 }
-
