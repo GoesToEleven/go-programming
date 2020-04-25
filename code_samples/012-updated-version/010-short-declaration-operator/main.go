@@ -13,4 +13,6 @@ func main() {
 	fmt.Println(z)
 	gpgoops := "test key sign"
 	fmt.Println(gpgoops)
+	signagain := "let's try this again"
+	fmt.Println(signagain)
 }
