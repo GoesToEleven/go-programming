@@ -15,4 +15,6 @@ func main() {
 	fmt.Println(gpgoops)
 	signagain := "let's try this again"
 	fmt.Println(signagain)
+	oknow := "okay now"
+	fmt.Println(oknow)
 }
