@@ -11,4 +11,6 @@ func main() {
 	fmt.Println(y)
 	z := "Bond, James"
 	fmt.Println(z)
+	gpg := "test key sign"
+	fmt.Println(gpg)
 }
