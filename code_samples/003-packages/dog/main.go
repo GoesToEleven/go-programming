@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/GoesToEleven/go-programming/003-packages/cat"
+	"github.com/GoesToEleven/go-programming/code_samples/003-packages/cat"
 )
 
 func main() {
